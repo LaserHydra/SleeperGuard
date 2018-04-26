@@ -2,10 +2,10 @@
 
 ## Permissions
 
-- **sleeperguard.damageprotection** -- Protects player from all damage sources
-- **sleeperguard.lootprotection** -- Protects player from being looted
-- **sleeperguard.nodamagedelay** -- Excludes player from configured damage delay
-- **sleeperguard.nolootdelay** -- Excludes player from configured loot delay
+- `sleeperguard.damageprotection` -- Protects player from all damage sources
+- `sleeperguard.lootprotection` -- Protects player from being looted
+- `sleeperguard.nodamagedelay` -- Excludes player from configured damage delay
+- `sleeperguard.nolootdelay` -- Excludes player from configured loot delay
 
 ## Configuration
 
