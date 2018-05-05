@@ -67,6 +67,8 @@ namespace Oxide.Plugins
 
         private void OnServerInitialized()
         {
+            permission.RegisterPermission(permDamageProtection, this);
+            permission.RegisterPermission(permLootProtection, this);
             permission.RegisterPermission(permNoDamageDelay, this);
             permission.RegisterPermission(permNoLootDelay, this);
 
